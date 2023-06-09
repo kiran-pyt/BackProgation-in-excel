@@ -12,3 +12,7 @@ Finally Accuracy =99.23%
 
 
 ![image](https://github.com/kiran-pyt/ERAS6/assets/120393460/f459a47a-94d1-4730-b95f-5ca37eb194f9)
+
+
+
+https://github.com/kiran-pyt/ERA1S5/blob/main/S6.ipynb
