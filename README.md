@@ -16,3 +16,6 @@ Finally Accuracy =99.23%
 
 
 https://github.com/kiran-pyt/ERA1S5/blob/main/S6.ipynb
+
+
+https://github.com/kiran-pyt/ERAS6/blob/main/BACK_PROP_ERA.xlsx
